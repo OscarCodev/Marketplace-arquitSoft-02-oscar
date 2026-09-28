@@ -1,3 +1,9 @@
+# Enfoque Arquitectónico
+
+![Diagrama de Enfoque Arquitectónico - Clean Architecture](img/enfoque-arquitectonico.png)
+
+## Descripción
+
 | Elemento | Descripción aplicada al Marketplace |
 | :--- | :--- |
 | Patrón / enfoque arquitectónico | Clean Architecture (Arquitectura Limpia). |
