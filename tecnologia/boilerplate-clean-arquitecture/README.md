@@ -148,3 +148,15 @@ Las entidades deciden **qué es válido**.
 Los contratos ocultan **con qué tecnología** se hace cada cosa.
 
 ---
+
+## Material visual de arquitectura
+
+- [Enfoque de arquitectura limpia](../../docs/02-arquitectura-software/enfoque-aquitectonico.md): explicación de las capas y sus responsabilidades.
+- [Arquitectura inicial](../../docs/02-arquitectura-software/arquitectura-inicial.md): diagrama editable en Mermaid.
+- [Diagrama de arquitectura limpia](../../img/ArquitecturalimpiadelMarketplaceWeb.png): gráfico visual para clase.
+
+### La pregunta clave para los estudiantes
+
+> «Si cambio el proveedor de pago, ¿tengo que modificar el dominio o `RegistrarCompraCasoUso`?»
+
+La respuesta esperada es **no**. Se cambia el adaptador y la configuración de composición.
